@@ -1,3 +1,5 @@
+# Danil Khasanshin DSAI-05
+
 def gaussian_elimination(matrix):
     matrix = [row.copy() for row in matrix]
     rows = len(matrix)
